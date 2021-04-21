@@ -23,7 +23,7 @@ img{
     margin: 20px;
 }
 
-@media screen and (min-width:700px){
+@media screen and (min-width:250px){
 	img{
 		width: 45%;
 }
