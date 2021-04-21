@@ -15,9 +15,9 @@ h1{
 
 /*Style the images*/
 img{
-    height: 500px;
+    height: 250px;
     width:auto;
-    border: 10px solid yellow;
+    border: 10px solid #0000FF;
     padding: 25px;
     border-radius: 15px;
     margin: 20px;
