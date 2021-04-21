@@ -54,7 +54,8 @@ nav li{
 	padding:10px;
 	width:25%;
 	border:1px solid black;
-	display: inline;
+	display: inline-block;
+	width:30%;
 	
 }
 
