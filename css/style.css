@@ -54,7 +54,7 @@ p {
 #showcase .bg-image {
   position: absolute;
   background: #333
-  <img src "imgs/About Us.jpg" alt=”About Us"/>
+  url("https://images.pexels.com/photos/5952645/pexels-photo-5952645.jpeg?cs=srgb&dl=pexels-mati-mango-5952645.jpg&fm=jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
